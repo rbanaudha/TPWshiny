@@ -8,5 +8,5 @@ TPWshiny is a robust, independent visualization tool for comprehensive genome-wi
 TPWshiny documentation and additional information can be found on https://brb.nci.nih.gov/TPWshiny/
 
 TPWshiny has been deployed on a shinyapp server.
-You can access it directly at https://ncibrp.shinyapps.io/TPWshiny1/
+You can access it directly at https://ncibrp.shinyapps.io/TPWshiny1/</br></br>
 **If you use this tool for your analysis, please cite:** Zhang P, Palmisano A, Kumar R, Li MC, Doroshow JH, Zhao Y. TPWshiny: an interactive R/Shiny app to explore cell line transcriptional responses to anti-cancer drugs. Bioinformatics. 2022 Jan 3;38(2):570-572. doi: 10.1093/bioinformatics/btab619. PMID: 34450618; PMCID: PMC10060698.
